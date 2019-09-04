@@ -1,0 +1,7 @@
+try:
+  startAI = str(input("LET'S CODE AI ALREADY!!! Y or N: "))
+  print(startAI)
+except ValueError:
+  print("Wrong input")
+  
+  //Why can I input an integer with no error
