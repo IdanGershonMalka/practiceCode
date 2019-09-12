@@ -1,0 +1,4 @@
+'''
+def is the default way to start a function but there are other ways such as "def__init__" is a constructor.
+Within the function you can return to return and ypu can pass to completely ignore the contents of the function.
+'''
